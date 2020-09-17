@@ -24,7 +24,7 @@ export default {
   name: 'topnav',
   data () {
     return {
-      title: 'StrangeClass'
+      title: 'Online Course'
     }
   },
   methods: {
@@ -48,7 +48,7 @@ export default {
 /*设置header的div区*/
 .topnav{
   height: 72px ;
-  background: #458fce ;
+  background: #dd6161 ;
 }
 /*设置logo的div区*/
 .topnav .logo{
